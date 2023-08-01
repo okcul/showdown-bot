@@ -1,0 +1,30 @@
+{
+    "gen9": {
+        "ou":"gen9ou",
+        "ubers":"gen9ubers",
+        "uu":"gen9uu",
+        "ru":"gen9ru",
+        "nu":"gen9nu",
+        "pu":"gen9pu",
+        "lc":"gen9lc",
+        "anythinggoes":"gen9anythinggoes"
+    },
+    "gen8": {
+        "ou":"gen8ou"
+    },
+    "gen7": {
+        "ou":"gen7ou"
+    },
+    "gen6": {
+        "ou":"gen6ou"
+    },
+    "gen5": {
+        "ou":"gen5ou"
+    },
+    "gen4": {
+        "ou":"gen4ou"
+    },
+    "gen3": {
+        "ou":"gen3ou"
+    }
+}
